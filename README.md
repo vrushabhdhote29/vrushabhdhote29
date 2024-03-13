@@ -206,5 +206,5 @@
 ### Trophy
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Its-anand&column=4&margin-w=5&margin-h=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=true&theme=onestar" alt="My Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vrushabhdhote29&column=4&margin-w=5&margin-h=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=true&theme=onestar" alt="My Trophies"/>
 </p>
