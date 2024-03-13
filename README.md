@@ -24,7 +24,7 @@
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/android/android-original.svg" height="30" width="42" alt="cplusplus logo"  />
-  <img src=""  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-original.svg"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" width="42" alt="wordpress logo"  />-->
 </div>
