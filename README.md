@@ -60,7 +60,7 @@
 <br clear="both">
 <div align="center">
   <p>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Its-anand&theme=radical&border_radius=3.4&background=282A36" alt="its-anand" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Its-anand&theme=radical&border_radius=3.4&background=282A36" alt="vrushabhdhote29" />
   </p>
 </div> 
 
