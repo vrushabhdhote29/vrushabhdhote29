@@ -79,7 +79,7 @@
         <th valign="center" width="33%">
             <div align="center">
                 <a href="" target="_blank">
-                    <img src="https://png.pngtree.com/png-clipart/20191122/original/pngtree-diya-colorful-rangoli-diwali-diya-festivals-in-india-png-image_5189720.jpg" border="2" />
+                    <img src="https://png.pngtree.com/png-clipart/20231104/original/pngtree-peacock-diya-transpreant-background-png-image_13504724.png" border="2" />
                 </a>
             </div>
         </th>
