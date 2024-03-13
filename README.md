@@ -73,21 +73,21 @@
     <tr>
         <th valign="center" width="33%">
             <div align="center">
-                <a href="https://project-purehealth.thats.im/" target="_blank">
+                <a href="" target="_blank">
                     <img src="./images/PureHealth.png" border="2" />
                 </a>
             </div>
         </th>
         <th valign="center" width="33%">
             <div align="center">
-                <a href="https://www.project-notice-board.thats.im/" target="_blank">
+                <a href="" target="_blank">
                     <img src="./images/Acroboard.png" border="2" />
                 </a>
             </div>
         </th>
         <th valign="center" width="33%">
             <div align="center">
-                <a href="https://minglish.000webhostapp.com/" target="_blank">
+                <a href="" target="_blank">
                     <img src="./images/CMW.png" border="2" />
                 </a>
             </div>
@@ -97,21 +97,21 @@
         <td valign="top" width="33%">
             <div align="center">
                 <a href="https://project-purehealth.thats.im/" target="_blank">
-                    <b>PureHealth Ecommerce </b>
+                    <b>A</b>
                 </a>
                 <br />
-                <a href="https://github.com/Its-anand/Pure-Health" target="_blank">
+                <a href="" target="_blank">
                     View Repo
                 </a>
             </div>
         </td>
         <td valign="top" width="33%">
             <div align="center">
-                <a href="https://www.project-notice-board.thats.im/" target="_blank">
-                    <b>Acroplis Notice Board</b>
+                <a href="" target="_blank">
+                    <b>B</b>
                 </a>
                 <br />
-                <a href="https://github.com/Its-anand/Acropolis-Notice-Board" target="_blank">
+                <a href="" target="_blank">
                     View Repo
                 </a>
             </div>
@@ -119,10 +119,10 @@
         <td valign="top" width="33%">
             <div align="center">
                 <a href="https://minglish.000webhostapp.com/" target="_blank">
-                    <b>Common Meaningful words Website</b>
+                    <b>C</b>
                 </a>
                 <br />
-                <a href="https://github.com/Its-anand/CMW-project" target="_blank">
+                <a href="" target="_blank">
                     View Repo
                 </a>
             </div>
@@ -137,28 +137,28 @@
    <tr><!--Here-->
        <th valign="center" width="33%" colspan="3">
            <div align="center">
-               Css Only Arts
+               Only Arts
             </div>
         </th>
     </tr>
     <tr>
         <th valign="center" width="33%">
             <div align="center">
-                <a href="https://its-anand.github.io/Sunset-at-the-beach-image-made-with-html-and-css-only/" target="_blank">
+                <a href="" target="_blank">
                     <img src="./images/Sunset.png" border="2" />
                 </a>
             </div>
         </th>
         <th valign="center" width="33%">
             <div align="center">
-                <a href="https://its-anand.github.io/Diwali-Special-diya-and-moving-bati-with-html-css-only/" target="_blank">
+                <a href="" target="_blank">
                     <img src="./images/Diya.png" border="2" />
                 </a>
             </div>
         </th>
         <th valign="center" width="33%">
             <div align="center">
-                <a href="https://its-anand.github.io/sunset-road-trip/" target="_blank">
+                <a href="" target="_blank">
                     <img src="./images/Sunset Road Trip.avif" border="2" />
                 </a>
             </div>
@@ -167,33 +167,33 @@
     <tr>
         <td valign="top" width="33%">
             <div align="center">
-                <a href="https://its-anand.github.io/Sunset-at-the-beach-image-made-with-html-and-css-only/" target="_blank">
-                    <b>Sunset On The Beach</b>
+                <a href="" target="_blank">
+                    <b>D</b>
                 </a>
                 <br />
-                <a href="https://github.com/Its-anand/Sunset-on-the-beach-image-made-with-html-and-css-only" target="_blank">
+                <a href="" target="_blank">
                     View Repo
                 </a>
             </div>
         </td>
         <td valign="top" width="33%">
             <div align="center">
-                <a href="https://its-anand.github.io/Diwali-Special-diya-and-moving-bati-with-html-css-only/" target="_blank">
-                    <b>Diwali Diya Animation</b>
+                <a href="" target="_blank">
+                    <b>E</b>
                 </a>
                 <br />
-                <a href="https://github.com/Its-anand/Diwali-Special-diya-and-moving-bati-with-html-css-only" target="_blank">
+                <a href="" target="_blank">
                     View Repo
                 </a>
             </div>
         </td>
         <td valign="top" width="33%">
             <div align="center">
-                <a href="https://its-anand.github.io/sunset-road-trip/" target="_blank">
-                    <b>Sunset Road Trip</b>
+                <a href="" target="_blank">
+                    <b>F</b>
                 </a>
                 <br />
-                <a href="https://github.com/Its-anand/sunset-road-trip" target="_blank">
+                <a href="" target="_blank">
                     View Repo
                 </a>
             </div>
