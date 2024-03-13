@@ -86,14 +86,14 @@
         <th valign="center" width="33%">
             <div align="center">
                 <a href="" target="_blank">
-                    <img src="" border="2" />
+                    <img src="https://pngbuy.com/wp-content/uploads/2023/05/Diwali-Diya-PNG-Image-HD.png" border="2" />
                 </a>
             </div>
         </th>
         <th valign="center" width="33%">
             <div align="center">
                 <a href="" target="_blank">
-                    <img src="" border="2" />
+                    <img src="https://pngbuy.com/wp-content/uploads/2023/05/Diwali-Diya-PNG-File-Download-Free.png" border="2" />
                 </a>
             </div>
         </th>
