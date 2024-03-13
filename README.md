@@ -29,6 +29,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-original.svg" height="30" width="42" alt="dart logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" width="42" alt="wordpress logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg](https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg)" height="30" width="42" alt="wordpress logo"  />
 </div>
 
 ### Social Media 
