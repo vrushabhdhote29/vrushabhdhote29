@@ -7,7 +7,7 @@
 
 ### Profile Views
 <div align="left">
-  <img src="https://profile-counter.glitch.me/Its-anand/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/vrushabhdhote29/count.svg?"  />
 </div>
 
 ### Skills
