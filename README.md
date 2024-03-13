@@ -32,13 +32,13 @@
 
 
 <div align="left">
- <a href="https://www.linkedin.com/in/anand-choudhary-4907251b6/" target="_blank">
+ <a href="[https://www.linkedin.com/in/anand-choudhary-4907251b6/](https://www.linkedin.com/in/vrushabh-dhote-632210212/)" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"      alt="linkedin logo"  />
 </a>
- <a href="https://www.codechef.com/users/i_anand" target="_blank">
+ <a href="https://www.codechef.com/users/" target="_blank">
         <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="35" alt="CodeChef"/>
  </a>
-<a href="https://discord.com/users/Anand#8607" target="_blank">
+<a href="https://discord.com/users/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
  </a>
 </div>
